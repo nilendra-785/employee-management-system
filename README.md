@@ -39,8 +39,11 @@ This application allows users to manage employees with CRUD operations and depar
 ## 📂 Project Structure
 
 full-stack/
+
 │
+
 ├── ems-backend/ # Spring Boot backend
+
 └── ems-frontend/ # React frontend
 
 

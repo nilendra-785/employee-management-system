@@ -1,1 +1,24 @@
+# IDE
 .metadata/
+.idea/
+.vscode/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+.env
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
